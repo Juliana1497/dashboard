@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.04b0a379.css",
+    "main.js": "/dashboard/static/js/main.eec028c9.js",
+    "static/media/LogoJuli.png": "/dashboard/static/media/LogoJuli.ea97faef19960ab6d548.png",
+    "index.html": "/dashboard/index.html",
+    "main.04b0a379.css.map": "/dashboard/static/css/main.04b0a379.css.map",
+    "main.eec028c9.js.map": "/dashboard/static/js/main.eec028c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b0a379.css",
+    "static/js/main.eec028c9.js"
+  ]
+}
