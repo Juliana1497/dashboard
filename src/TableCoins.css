@@ -1,0 +1,14 @@
+.table_coins{
+    width: 80%;
+    margin: auto;
+    padding: 30px 30px 80px;
+}
+tr{
+    text-align: center;
+}
+@media (min-width: 320px) and (max-width:767px){
+    .table_coins{
+        display: block;
+        overflow-x: auto;
+    }
+}
